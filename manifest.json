@@ -1,9 +1,9 @@
 {
   "id": "obsidian-deepseek-organizer",
-  "name": "DeepSeek 知识库整理",
-  "version": "1.0.0",
+  "name": "DeepSeek AI 助手",
+  "version": "1.1.0",
   "minAppVersion": "1.5.0",
-  "description": "集成 DeepSeek V4 Pro，智能整理笔记：语义拆分、摘要生成、标签推荐、双向链接建议、内容润色与去重。",
+  "description": "AI 对话、Vault 全文检索、智能笔记生成、知识图谱、文件导入拆分，让 AI 读懂你的知识库。",
   "author": "Qi",
   "authorUrl": "https://github.com/Qi-hub-dot",
   "isDesktopOnly": false
